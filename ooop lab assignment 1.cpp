@@ -1,4 +1,4 @@
-/*#include<iostream>
+#include<iostream>
 #include<conio.h>
 
 using namespace std;
@@ -44,4 +44,4 @@ using namespace std;
  	cout<<"Salary: "<<empl.EmpSalary<<endl;
  	cout<<"ID: "<<empl.EmpID<<endl;
  	cout<<"Age: "<<empl.EmpAge<<endl;
- }*/
+ }
