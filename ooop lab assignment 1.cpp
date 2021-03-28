@@ -38,7 +38,7 @@ using namespace std;
  	system("pause");
  	return 0;
  }
- /* void display (struct employee &empl)
+  void display (struct employee &empl)
  {
  cout<<"Name: "<<empl.EmpName<<endl;
  	cout<<"Salary: "<<empl.EmpSalary<<endl;
